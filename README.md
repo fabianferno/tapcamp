@@ -2,6 +2,12 @@
 
 **TapCamp** is an on-chain social app that gamifies making real-life connections. Mint your unique NFC tag, meet new people, earn tokens, and compete for the pot in a dynamic, ever-evolving social experience.
 
+
+## Links
+- https://explorerl2new-camp-network-4xje7wy105.t.conduit.xyz/address/0x2323Cd8097708f4C8D4BA37aE72644Af712bAD76
+- https://explorerl2new-camp-network-4xje7wy105.t.conduit.xyz/address/0x0810B2d3C23d7207C6B15fb6B3303e99561cb80f
+
+
 ## Problem It Solves
 
 TapCamp addresses the challenge of making meaningful real-life connections in an increasingly digital world. Traditional social apps often fail to facilitate genuine in-person interactions, leaving users isolated despite being "connected" online.
@@ -35,11 +41,4 @@ We welcome contributions from the community! Please read our [contributing guide
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-For any inquiries or support, please open an issue or contact us at [email@example.com](mailto:email@example.com).
-
----
-
-Feel free to customize this README further to better fit your project's specifics.
+ 

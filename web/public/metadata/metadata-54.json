@@ -1,0 +1,12 @@
+{
+  "name": "optimistic-independent-oxpecker-of-love",
+  "description": "Connekt NFTs represent your identity on the connekt app",
+  "image": "https://bafybeibm5kcupvkixeieonzisk4slwigc2zxesmj3dt3wx4oawybupnfza.ipfs.nftstorage.link/54.jpg",
+  "external_url": "https://ethsydney.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": "54"
+    }
+  ]
+}

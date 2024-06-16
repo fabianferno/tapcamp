@@ -1,0 +1,12 @@
+{
+  "name": "benevolent-futuristic-buzzard-of-satiation",
+  "description": "Connekt NFTs represent your identity on the connekt app",
+  "image": "https://bafybeibm5kcupvkixeieonzisk4slwigc2zxesmj3dt3wx4oawybupnfza.ipfs.nftstorage.link/12.jpg",
+  "external_url": "https://ethsydney.vercel.app",
+  "attributes": [
+    {
+      "trait_type": "id",
+      "value": "12"
+    }
+  ]
+}
